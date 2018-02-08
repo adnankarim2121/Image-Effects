@@ -1,5 +1,5 @@
 # Image-Effects
-
+#Please note anyone who wants to use this must have the stb, glfw, glad, and glm libraries downloaded. 
 How to Compile the Program:
 1. Change into the CPSC453A2 directory
 2. In terminal, type: make
